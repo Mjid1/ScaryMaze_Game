@@ -1,0 +1,672 @@
+fileFormatVersion: 2
+guid: aa556fa8248105944a619a001b1dd5b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1446157661773893718
+    second: Browser Games - Sonic Maze Craze - Maze Objects_0
+  - first:
+      213: 5883874238184089810
+    second: Browser Games - Sonic Maze Craze - Maze Objects_1
+  - first:
+      213: 2282871739782726256
+    second: Browser Games - Sonic Maze Craze - Maze Objects_2
+  - first:
+      213: 7759486288198287559
+    second: Browser Games - Sonic Maze Craze - Maze Objects_3
+  - first:
+      213: 7024689185533701583
+    second: Browser Games - Sonic Maze Craze - Maze Objects_4
+  - first:
+      213: -5675659508125898550
+    second: Browser Games - Sonic Maze Craze - Maze Objects_5
+  - first:
+      213: -412838344258068268
+    second: Browser Games - Sonic Maze Craze - Maze Objects_6
+  - first:
+      213: 809525948421021891
+    second: Browser Games - Sonic Maze Craze - Maze Objects_7
+  - first:
+      213: 5714236246944039128
+    second: Browser Games - Sonic Maze Craze - Maze Objects_8
+  - first:
+      213: 2937092039641379272
+    second: Browser Games - Sonic Maze Craze - Maze Objects_9
+  - first:
+      213: 1233119083309026066
+    second: Browser Games - Sonic Maze Craze - Maze Objects_10
+  - first:
+      213: 8419827419351246417
+    second: Browser Games - Sonic Maze Craze - Maze Objects_11
+  - first:
+      213: 438051748864335443
+    second: Browser Games - Sonic Maze Craze - Maze Objects_12
+  - first:
+      213: 3668397578756273754
+    second: Browser Games - Sonic Maze Craze - Maze Objects_13
+  - first:
+      213: -7778091684652673091
+    second: Browser Games - Sonic Maze Craze - Maze Objects_14
+  - first:
+      213: -4510764413624133519
+    second: Browser Games - Sonic Maze Craze - Maze Objects_15
+  - first:
+      213: 5333722313622629663
+    second: Browser Games - Sonic Maze Craze - Maze Objects_16
+  - first:
+      213: -7408311173420429086
+    second: Browser Games - Sonic Maze Craze - Maze Objects_17
+  - first:
+      213: 78880562214212141
+    second: Browser Games - Sonic Maze Craze - Maze Objects_18
+  - first:
+      213: -5679216808323937526
+    second: Browser Games - Sonic Maze Craze - Maze Objects_19
+  - first:
+      213: -1623210175187027158
+    second: Browser Games - Sonic Maze Craze - Maze Objects_20
+  - first:
+      213: 3084485469072082879
+    second: Browser Games - Sonic Maze Craze - Maze Objects_21
+  - first:
+      213: -4392276566030879550
+    second: Browser Games - Sonic Maze Craze - Maze Objects_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Browser Games - Sonic Maze Craze - Maze Objects_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 800
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafe1c8c4473eebe0800000000000000
+      internalID: -1446157661773893718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic Maze Craze - Maze Objects_1
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 467
+        width: 32
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8e80e0278b7a150800000000000000
+      internalID: 5883874238184089810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic Maze Craze - Maze Objects_2
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 525
+        width: 32
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072078d80c36eaf10800000000000000
+      internalID: 2282871739782726256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic Maze Craze - Maze Objects_3
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 609
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0c297eaab3fab60800000000000000
+      internalID: 7759486288198287559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic Maze Craze - Maze Objects_4
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 641
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcda3498895bc7160800000000000000
+      internalID: 7024689185533701583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic Maze Craze - Maze Objects_5
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 658
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac866109fb10c31b0800000000000000
+      internalID: -5675659508125898550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic Maze Craze - Maze Objects_6
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 657
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d066d496bd454af0800000000000000
+      internalID: -412838344258068268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic Maze Craze - Maze Objects_7
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 554
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0a810af830c3b00800000000000000
+      internalID: 809525948421021891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic Maze Craze - Maze Objects_8
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 554
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0c2cd579b0d4f40800000000000000
+      internalID: 5714236246944039128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic Maze Craze - Maze Objects_9
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 554
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1b37f06a5a2c820800000000000000
+      internalID: 2937092039641379272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic Maze Craze - Maze Objects_10
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 554
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bc36ed54bec1110800000000000000
+      internalID: 1233119083309026066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic Maze Craze - Maze Objects_11
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 488
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15666808d6c39d470800000000000000
+      internalID: 8419827419351246417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic Maze Craze - Maze Objects_12
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 501
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e1c44aeb5441600800000000000000
+      internalID: 438051748864335443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic Maze Craze - Maze Objects_13
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 501
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56bba07924c8e230800000000000000
+      internalID: 3668397578756273754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic Maze Craze - Maze Objects_14
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 501
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db79bd9a2daae0490800000000000000
+      internalID: -7778091684652673091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic Maze Craze - Maze Objects_15
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 502
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178d5743aab8661c0800000000000000
+      internalID: -4510764413624133519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic Maze Craze - Maze Objects_16
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 501
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d2d0a5f20350a40800000000000000
+      internalID: 5333722313622629663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic Maze Craze - Maze Objects_17
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 430
+        width: 466
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0d7ba1d34603990800000000000000
+      internalID: -7408311173420429086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic Maze Craze - Maze Objects_18
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 393
+        width: 178
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d221672147d381100800000000000000
+      internalID: 78880562214212141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic Maze Craze - Maze Objects_19
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 328
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b8c61176e5f21b0800000000000000
+      internalID: -5679216808323937526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic Maze Craze - Maze Objects_20
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 311
+        width: 134
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b7d2022f23979e0800000000000000
+      internalID: -1623210175187027158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic Maze Craze - Maze Objects_21
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 228
+        width: 503
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb745ea113b4eca20800000000000000
+      internalID: 3084485469072082879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic Maze Craze - Maze Objects_22
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 0
+        width: 156
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4f4760cbf7b03c0800000000000000
+      internalID: -4392276566030879550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
