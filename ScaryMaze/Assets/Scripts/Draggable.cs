@@ -59,6 +59,19 @@ public class Draggable : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Trap"))
+        {
             SceneManager.LoadScene("GameOver");
+        }
+
+        if (collision.gameObject.CompareTag("NextLVL")) 
+        {
+            SceneManager.LoadScene("Game2");
+        }
+
+        if (collision.gameObject.CompareTag("NextLVL3"))
+        {
+            SceneManager.LoadScene("Game3");
+        }
+
     }
 }
