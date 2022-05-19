@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
 
@@ -10,6 +11,7 @@ public class Draggable : MonoBehaviour
     private string nextSceneName;
     private float startXPos;
     private float startYPos;
+
 
     private bool isDragging = false;
 
@@ -73,5 +75,12 @@ public class Draggable : MonoBehaviour
             SceneManager.LoadScene("Game3");
         }
 
+        if (collision.gameObject.CompareTag("Scary"))
+        {
+            SceneManager.LoadScene("GameOver 1");
+        }
+
+
     }
+
 }
